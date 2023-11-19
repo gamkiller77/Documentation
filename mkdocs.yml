@@ -1,0 +1,4 @@
+site_name: Prometheus MSLA Documentation
+site_url: https://stefanraatz.github.io/Material4MkDocs/en/latest/
+theme:
+  name: material
