@@ -1,4 +1,13 @@
 site_name: Prometheus Documentation
 site_url: https://thecontrappostoshop.github.io/Documentation/
+repo_url: https://github.com/TheContrappostoShop/Prometheus-MSLA
 theme:
   name: material
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/GFUn9gwRsj
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/623237352174055/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@thecontrappostoshop3787/
