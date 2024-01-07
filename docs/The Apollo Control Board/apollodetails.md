@@ -11,5 +11,6 @@ but can carry other types of SBC with adapters ( coming soon ). As is, it can su
 motors for multiple axes and 3 limit switches for them. One power mosfet for power hungry<br>
 components like led array or heating bed, with the trigger output to activate an SSR or <br>
 something else if needed. Finally 3x2 12vdc PWM compatible outputs for fans and accessories.</p>
+something else if needed. Finally 3x2 12vdc PWM compatible outputs for fans and accessories.</p>
 
 ![](./images/ApolloControlBoardPinOut.png)
