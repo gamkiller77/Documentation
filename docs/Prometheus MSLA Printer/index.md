@@ -6,4 +6,4 @@ has_children: true
 has_toc: false
 ---
 <h3>The Prometheus MSLA Printer</h3>
-<p>maybe placeholder for an non pdf assembly guide?</p>ß
+<p>The Prometheus MSLA printer is the first fully open source MSLA (resin) printer. We are a team all around the world with a whole community that helps in a way or an other on this project.</p>
