@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 <h3>About the Prometheus MSLA printer</h3>
-<p>The Prometheus project began in 2020 with the work of the original founders Samuel Boutin and Melissa Belanger (The Contrapposto Shop). At the time there was not a lot of large format 3D printers on the market and none at a affordable price. Especially no open source (fully or in part). Even to this date the Prometheus MSLA project is the only fully open sourse resin printer. The project aimed to create a similar priced machine as the competition with good performance and give the user full control and ownership of their machine. Nothing will be locked, everything is upgradeable, repairable and more !
+<p>The Prometheus project began in 2020 with the work of the original founders Samuel Boutin and Melissa Belanger (The Contrapposto Shop). At the time there was not a lot of large format 3D printers on the market and none at a affordable price. Especially no open source (fully or in part). Even to this date the Prometheus MSLA project is the only fully open sourse resin printer. The project aimed to create a similar priced machine as the competition with good performance and give the user full control and ownership of their machine. Nothing will be locked, everything is upgradeable, repairable and more !</p>
 
 After a failed kickstarter at the end of 2021 the contrapposto shop team didnt stop the project and took an other direction. Everything was for the best ! A complete redesign of the machine, new electronics and futur plans were on the table. New members for the Prometheus project started to join and contribute for an even better machine !</p>
 
@@ -16,7 +16,7 @@ After a failed kickstarter at the end of 2021 the contrapposto shop team didnt s
 <h3>Frame<h3>
 <p>The Prometheus MSLA frame is build with your nice and friendly 2020 aluminum extrusions and joined using blind joints. This approach gives the opportunity to easily build and modify with a very reasonable cost and sturdy construction.</p>
 
-<h3>Control and firmware - Odyssey<3>
+<h3>Control and firmware - Odyssey<h3>
 <p>To be considered as fully open source we needed a firmware to go with the machine. Unfortunately the only piece of software available for more "DIY" machines was NanoDLP. This piece of software has been around for quite some time and have a lot of fonctionnalities. The problems we have are first of all, not fully open (so we can not add special fonctionnalities), we encounter a lot of "bugs" (although it becomes better with each update) and finally in our opinion it's not user friendly and requires a lot of work to set up a machine.</p>
 
 That brings us to the fully open os "Odyssey" ! On our custom mother board "Apollo" we are running klipper a user friendly firmware for your 3D printers. Klipper is the base firmware for controlling the printer with all the accessories in conjonction with Odyssey. "Orion" is our front end user interface to bring everything together. We aimed a simple OS with all the features you need and without the ones you don't ! This is still a work in progress but you can still try our lattest version on github.
