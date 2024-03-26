@@ -32,7 +32,9 @@ extra:
       link: https://www.facebook.com/groups/623237352174055/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@thecontrappostoshop3787/
-      
+  version:
+    provider: mike
+
 markdown_extensions:
   - attr_list
   - md_in_html
