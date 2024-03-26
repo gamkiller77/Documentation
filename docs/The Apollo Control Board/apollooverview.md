@@ -13,7 +13,7 @@ The motherboard is fully open source (<a href="https://ohwr.org/cern_ohl_s_v2.pd
 
 
 <h2>Disclaimer</h2>
-Please make sure to read and follow the following instructions for your Apollo motherboard to avoid any damages or any broken components. 
+Please make sure to read and follow the following instructions for your Apollo motherboard to avoid any damages or any broken components. Test123 
 
 ----
 ## Next: [Apollo Control Board Details](../The%20Apollo%20Control%20Board/apollodetails.md)
