@@ -19,4 +19,4 @@ Our project is the Prometheus mSLA printer, a resin printer that aims to be full
 </ul>
 </p>
 <p>We're aiming to stay as true to open-source as possible! As this is a WIP effort,<br>
-not all Licenses might be abiding by the requirements at all times.</p>
+not all Licenses might be abiding by the requirements at all times.Test123</p>
