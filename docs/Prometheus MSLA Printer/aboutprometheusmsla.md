@@ -25,4 +25,4 @@ That brings us to the fully open os "Odyssey" ! On our custom mother board "Apol
 <p>  2024 orders on the contrapposto store and the authorized suppliers, the Apollo controller board sold will be equiped with a special IC to keep track of the serial numbers. We will also not release the artwork on the board online to keep it our property. This means that we will be abble to verify in the futur the authenticity of the boards. If the board was made and SOLD from by an unauthorized seller by the contrapposto shop, the team keeps the right to only give minimum support. We hope to protect futur authorized sellers and encourage the support of the project !</p>
 
 ----
-## Next: [The build](../Prometheus%20MSLA%20Printer/thebuild.md)
+## Next: [The build](../thebuild.md)
