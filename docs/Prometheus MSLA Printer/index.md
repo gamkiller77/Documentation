@@ -12,4 +12,4 @@ has_toc: false
 
 For the programing we have set up a "one click" install with all the configuration needed for the machine.</p>
 
-![Prometheus MSLA Render](./images/MainHeadRender.png) {align=center}
+![Prometheus MSLA Render](./images/MainHeadRender.png)
