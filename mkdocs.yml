@@ -41,6 +41,24 @@ extra:
   version:
     provider: mike
 
+nav:
+  - index.md
+  - Prometheus MSLA:
+    - prometheus/index.md
+    - prometheus/details.md
+    - Build:
+      - prometheus/build/index.md
+      - prometheus/build/electronics.md
+      - prometheus/build/frame.md
+  - Apollo Control Board:
+    - apollo/overview.md
+    - apollo/details.md
+    - apollo/piinstallation.md
+  - Blog:
+    - blog/index.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
