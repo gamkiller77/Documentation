@@ -124,3 +124,14 @@ In this step we suggest to not tight up the leveling screws on the sides of the 
 M4 Washer (4)
 M4x10 SHC (4)
 M8x50 set screw (1)
+
+The build arm is simply fixed onto the linear guides.
+
+![](./../images/Screenshot_27.png)
+
+M3 Washer (8)
+M3x18 SHC (8)
+
+To finalize everything this is here that you can tighten the loose screws. First we suggest to move the build arm almost all the way down. This is here you can tight the motor mount and the screws under the Z axis extrusion bar. Now move (by hand) your build arm all the way up and tighten the remaining screws at the top of the Z axis extrusion bar. This process ensure that the rails are properly space. They will naturaly place themself.
+
+When everything go up and down smoothly we can prepare ourself for [the middle plate](./middleplate.md).
