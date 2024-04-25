@@ -13,4 +13,9 @@ Materials that we not suggest are Styrene based filament like ABS and ASA. Those
 ### Slicer and printer settings
 There is few parts like the vat, vat ring and lcd braket that are oversized and will not fit in most of 3D printer. You will need to have access to a printer of at least 350mmx350mm print area. If ever you don't have acces to that kind of printer their is a splitted version of those parts. This is still in experimentation and might not be the beast due to big stress coming from the tensioned FEP under the vat. You can also look at PCBWay that can print those parts for you. Discount and associate link : https://pcbway.com/g/SGgRFv 
 
+We suggest to use material like PLA for all the parts that can come in contact with resin. Materials like ABS (or styrene base) will react with chemical inside the resin. Other materials like PC would be a strong candidate for this task. 
+ <span style="color: red"><b>*Make some test before to verify if your filament will be suitable. Some manufacturers use aditives that can react with chemicals.</b></span>
+
+ For all the parts we suggest 6 walls (for a 0.4mm nozzel) and an infill of 35%. Also make sure that your printer is well tuned to avoid gaps between the walls.
+
 ![Slicer](./../images/Slicer.png)
