@@ -110,7 +110,7 @@ Install that part onto the build plate.
 
 ??? info "Greace the treaded hole"
 
-    We suggest to use some kind of grace into the build plate holes to facilate a futur removal. Resin can leak under the printed part and go into the treads. This can jam the screws in place and add difficulties to remove those screws. 
+    We suggest to use some kind of greace into the build plate holes to facilate a futur removal. Resin can leak under the printed part and go into the treads. This can jam the screws in place and add difficulties to remove those screws. 
 
 ![](./../images/Screenshot_24.png)
 

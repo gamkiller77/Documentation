@@ -38,3 +38,10 @@ Don’t over tighten the screws to prevent crushing the pogo pins (look at them 
 <span style="color: red"><b>* We strongly suggest installing a proper heatsink on your pi.</b></span>
 
 ![](./images/ApolloControlBoardTopViewWithPi.jpg)
+
+### Step5
+
+The Apllo mother board can now be installed on the 3D printed braket. Simply Melt the four pillars on each corner to make some kind of plastic rivets.
+
+![](./images/image1.png)
+![](./images/image10.png)

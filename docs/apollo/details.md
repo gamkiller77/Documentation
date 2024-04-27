@@ -10,3 +10,4 @@ components like led array or heating bed, with the trigger output to activate an
 something else if needed. Finally 3x2 12vdc PWM compatible outputs for fans and accessories.
 
 ![](./images/ApolloControlBoardPinOut.png)
+![](./images/image15.png)

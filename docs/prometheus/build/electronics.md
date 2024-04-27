@@ -16,4 +16,8 @@ The rest of the modules mount without any screws in their brakets. You can mount
 
 ![](./../images/Screenshot_3.png)
 
+M3x10 SHC (12)
+
+![](./images/image15.png)
+
 Everything should fit on with the same screws. Look at the proper orientation of the plate and components in the pictures. When everything is mounted, set the plate aside and begin working on [the frame](./frame.md).
