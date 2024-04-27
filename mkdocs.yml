@@ -52,6 +52,7 @@ nav:
       - prometheus/build/frame.md
       - prometheus/build/kinematic.md
       - prometheus/build/middleplate.md
+      - prometheus/build/finalsteps.md
   - Apollo Control Board:
     - apollo/overview.md
     - apollo/details.md
