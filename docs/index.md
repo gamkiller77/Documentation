@@ -2,7 +2,7 @@
 title: The Contrapposto Shop
 summary: Contrapposto Shop Introduction Page
 ---
-### Hey there!👋 
+### Hey there!👋
 
 We're a group of people from around the globe, based in Canda.
 Our project is the Prometheus mSLA printer, a resin printer that aims to be fully open-source.
@@ -17,4 +17,4 @@ This consists of:
 </ul>
 
 We're aiming to stay as true to open-source as possible! As this is a WIP effort,
-certain pieces of the source or documentation may not be available yet. 
+certain pieces of the source or documentation may not be available yet.
