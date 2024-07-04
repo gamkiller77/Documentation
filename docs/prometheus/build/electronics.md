@@ -6,17 +6,26 @@ summary: Electronics Bay Layout
 ### Electronics Preparation
 
 We recommend doing the most of the electronic assembly outside the frame because it will become very tight later.
+
 First mount the braket on your power supply using the appropriate screws.
+
+| Part     | QTY |
+|----------|-----|
+| M4x8mm   | 4   |
+|          |     |
 
 ![](./../images/Screenshot_2.png)
 
-M4x8 SHC (4)
-
 The rest of the modules mount without any screws in their brakets. You can mount everything in place on the base plate with the appropriate screws.
+
+| Part     | QTY |
+|----------|-----|
+| M3x10mm  | 12  |
+|          |     |
 
 ![](./../images/Screenshot_3.png)
 
-M3x10 SHC (12)
+<!-- more detail about electronic wiring needs to go here. -->
 
 ![](./../images/image15.png)
 
